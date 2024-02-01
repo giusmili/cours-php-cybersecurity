@@ -8,4 +8,3 @@
 > * Sinon, une erreur CSRF est gérée, et des actions appropriées peuvent être prises, comme rediriger l'utilisateur, enregistrer l'événement, etc.
 > * Sinon, une erreur CSRF est gérée, et des actions appropriées peuvent être prises, comme rediriger l'utilisateur, enregistrer l'événement, etc.
 > Dans cet exemple jeton se sera pas stocké dans la bdd mais temporairement dans session
-![user](./asset/profile.svg)
