@@ -22,6 +22,7 @@ class Conntected{
 
             $_login && $_pass && preg_match($regex, $_pass)? print $_login." inscription validée 🔐" : 
             print "Une erreurs s'est produite <a href=\"index.php\">Essayez encore</a>";
+            
 
         print "<br>Connexion sécurisé 🔒️";
             # Supprimer le jeton après utilisation
