@@ -1,4 +1,4 @@
-# 🔥 Connection à la base de données &amp; connexion sécurisée
+# 🔥 Connexion à la base de données &amp; connexion sécurisée
 
 > Dans cet exemple, les étapes sont les suivantes :
 > * Vérification de l'existence du champ csrf_token dans la requête POST
