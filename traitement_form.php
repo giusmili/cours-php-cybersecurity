@@ -16,7 +16,7 @@
     <p class="warning-connection">
       <?php
            include_once __DIR__ . "./controller/connected.class.php";
-           Conntected::user_connected();
+          
       ?> 
     </p>
 </div>

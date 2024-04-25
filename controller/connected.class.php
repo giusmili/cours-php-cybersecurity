@@ -37,3 +37,4 @@ class Conntected{
     }
 
 }
+Conntected::user_connected();
